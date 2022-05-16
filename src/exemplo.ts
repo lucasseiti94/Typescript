@@ -3,4 +3,4 @@ function soma(a: number, b: number) {
 }
 
 soma(1, 2)
-soma('1', '2')
+// soma('1', '2')
